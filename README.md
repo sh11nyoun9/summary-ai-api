@@ -2,5 +2,5 @@
 
 ## 개요
 
-- [요약 AI](https://sh11nyoun9.github.io/summary-ai/)와 같은 웹 서비스를 위한 **Gemini 기반 AI 백엔드 API**
-- 프론트엔드에서 요청받은 내용을 기반으로 Google Gemini API를 호출하고, LLM의 답변 생성이 완료되면 그 결과를 다시 프론트엔드에 응답합니다.
+- [작품 요약 AI](https://sh11nyoun9.github.io/summary-ai/) 서비스를 위한 **Gemini 기반 AI 백엔드 API**
+- 프론트엔드에서 사용자가 입력한 데이터를 백엔드로 전송하면 백엔드(Serverless API)는 해당 데이터를 기반으로 Google Gemini API를 호출하고, 생성된 LLM의 응답 결과를 다시 프론트엔드로 전달
